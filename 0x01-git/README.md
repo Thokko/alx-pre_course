@@ -1,2 +1,1 @@
-“my second commit”
-"Up to date with co-workers"
+“my second commit it is”
